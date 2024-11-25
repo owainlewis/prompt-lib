@@ -7,10 +7,20 @@ My main interests are productivity and content creation.
 These prompts assume that you have LLM installed. 
 
 ```
-brew install llm 
+$ brew install llm 
+
+$ llm keys set openai
+
+# Install claude
+$ llm install llm-claude-3
+$ llm keys set claude
+$ alias claude="llm -m claude-3.5-haiku"
+
+# Install other models as needed
+$ llm install llm-gemini
 ```
 
-# Useage 
+# Usage 
 
 ```
 ➜  prompt-lib claude "Fun facts about penguins"
