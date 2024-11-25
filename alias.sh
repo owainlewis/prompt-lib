@@ -1,0 +1,1 @@
+alias claude="llm -m claude-3.5-haiku"
