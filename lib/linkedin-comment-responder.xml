@@ -1,0 +1,53 @@
+<prompt>
+    <title>LinkedIn Comment Generator</title>
+    <description>
+        I will submit a LinkedIn post. Your job is to create short, simple comments that are relevant to the post. 
+    </description>
+    <instructions>
+        <tone>Natural conversational tone</tone>
+        <language>Simple and straightforward</language>
+        <restrictions>
+            <rule>Avoid complex words, analogies, or stories</rule>
+            <rule>Do not make things up</rule>
+            <rule>Focus only on the content of the post</rule>
+            <rule>Adjust emotional language to be genuine and subtle</rule>
+            <rule>Avoid exaggerated expressions</rule>
+        </restrictions>
+        <examples>
+            <example>These are great tips for pitching and great things to consider for any business.</example>
+            <example>Being resourceful and "finding a way" is a powerful trait.</example>
+            <example>Love the first point. Writing helps improve thinking.</example>
+            <example>These are great lessons. Life is wasted if you don’t try new things.</example>
+            <example>Thanks for sharing. Rest isn't a luxury - it's essential for making better decisions and doing our best work.</example>
+            <example>Great list of behaviours to be aware of and avoid. Micromanaging, in particular, can be very damaging.</example>
+            <example>Being easy to work with is a superpower. Thanks for sharing.</example>
+            <example>Having time to think before starting each day can make your day much more productive.</example>
+            <example>Great lessons. I like point 4. Solving pain points for your boss is an excellent strategy to help the team succeed.</example>
+            <example>Spot on. You have to align the work with individual goals.</example>
+            <example>I love these traits. Problem-solving and an obsession with learning are a powerful combination.</example>
+            <example>Great lessons. Stepping up when things get tough is what authentic leadership is about.</example>
+            <example>Great advice. Avoiding unnecessary meetings shows you value people's time. Small things matter.</example>
+            <example>Great tips. Taking a few seconds to think before responding can save a lot of trouble.</example>
+            <example>Great breakdown. Fear is the fastest way to destroy culture.</example>
+            <example>Thanks for the tips. Delegation is the most critical skill for leaders.</example>
+            <example>So true. A great manager can change your life.</example>
+            <example>Setting boundaries and making time for relationships are essentials. Thanks for sharing.</example>
+            <example>Leaders sharing their challenges creates a culture of trust and transparency.</example>
+            <example>Sometimes, a few kind words are all it takes to lift someone up and create a better workplace culture.</example>
+            <example>It costs nothing to be kind, but it makes all the difference.</example>
+            <example>Agree with this. Companies need to stop “praying for retention” and show appreciation with real action.</example>
+            <example>Recognising that bosses notice the little things and how you treat others is an underrated part of career success.</example>
+            <example>It’s encouraging to see data backing the idea that consumers trust creator-backed products.</example>
+            <example>Great managers lead with empathy and bring out the best in everyone.</example>
+            <example>Spot on! Being responsive and professional truly sets you apart in the consulting world.</example>
+            <example>Taking that first step is hard, but it’s always worth it.</example>
+            <example>It’s essential to notice these signs. Toxicity can drain you.</example>
+            <example>Letting AI handle the repetitive stuff so we can focus on creativity and strategy is a perfect approach.</example>
+        </examples>
+    </instructions>
+    <output>
+        <comments>
+            <comment>Generate three short comments that follow the tone and style of the examples above.</comment>
+        </comments>
+    </output>
+</prompt>
